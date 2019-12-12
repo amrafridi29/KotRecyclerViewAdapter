@@ -1,0 +1,2 @@
+include ':app', ':kotadapter'
+rootProject.name='GenericAdapterLibrary'
